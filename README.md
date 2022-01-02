@@ -25,7 +25,7 @@ When we were to decide what to create for this task the both of us were sure tha
 
 ## Method
 
-[Requiremments](https://gitlab.lnu.se/1dt308/student/team-15/-/blob/master/doc/requirements.md)  \
+[Requirements](./doc/requirements.md)  \
 [Hardware](https://gitlab.lnu.se/1dt308/student/team-15/-/blob/master/doc/hardware.md)  \
 [Setup](https://gitlab.lnu.se/1dt308/student/team-15/-/blob/master/doc/setup.md)  \
 [Timelog](https://gitlab.lnu.se/1dt308/student/team-15/-/blob/master/doc/timelog.md)  \
