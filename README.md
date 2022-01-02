@@ -1,20 +1,19 @@
+## Note: This was a school project from 2020 in the course 'Introductory project'
+
 <table align="center"><tr><td align="center" width="9999">
 <img src="img/3d models/upper_view_with_breadboard.png" align="center" width="200" alt="img/3d models/upper_view_with_breadboard.png">
 
 # MQ(ar)TT 
 
 ### a wireless mini car made entirely from 3d printed parts 
+#### school project, 2020
 </td></tr></table>
-
 
 
 
  <img align="center" width="306" height="192" src="img/results/sideview_finished.png"> <img align="center" width="264" height="192" src="img/results/sidepic_low.jpg"> <img align="right" width="306" height="192" src="img/results/car_overview.jpg"> 
 
 
-**[Link for project video](https://www.youtube.com/watch?v=2-BbMNh7RmA)**
-
-  
     
     
 ## Abstract
