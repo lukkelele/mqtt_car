@@ -26,13 +26,13 @@ When we were to decide what to create for this task the both of us were sure tha
 ## Method
 
 [Requirements](./doc/requirements.md)  \
-[Hardware](https://gitlab.lnu.se/1dt308/student/team-15/-/blob/master/doc/hardware.md)  \
-[Setup](https://gitlab.lnu.se/1dt308/student/team-15/-/blob/master/doc/setup.md)  \
-[Timelog](https://gitlab.lnu.se/1dt308/student/team-15/-/blob/master/doc/timelog.md)  \
-[Source](https://gitlab.lnu.se/1dt308/student/team-15/-/tree/master/src)  \
-[Images](https://gitlab.lnu.se/1dt308/student/team-15/-/tree/master/img)  \
-[Pictures of the results](https://gitlab.lnu.se/1dt308/student/team-15/-/tree/master/img/results)  \
-[Fusion360 design and 3d models](https://gitlab.lnu.se/1dt308/student/team-15/-/tree/master/img/3d%20models)
+[Hardware](./doc/hardware.md)  \
+[Setup](./doc/setup.md)  \
+[Timelog](./doc/timelog.md)  \
+[Source](./src)  \
+[Images](./img)  \
+[Pictures of the results](./img/results)  \
+[Fusion360 design and 3d models](./img/3d%20models)
 
 ## Results
 
