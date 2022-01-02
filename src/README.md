@@ -1,4 +1,4 @@
-We may not mention this in our video presentation but it would be good to at least write a little about it.
+We may not mention this in the rest of the text but it would be good to at least write a little about it.
 
 The car was supposed to be controlled with an Android app via Bluetooth, so we don't have to do it via WIFI
 Everything could be "local" but we couldn't connect the Lopy to the app.
