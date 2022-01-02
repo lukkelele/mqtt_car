@@ -1,4 +1,6 @@
-## Note: This was a school project from 2020 in the course 'Introductory project'
+### Note: This was a school project from 2020 in the course 'Introductory project'.
+### We were assigned in to groups of two, my group was number 15 consisting of me and Fardin.  
+### We lacked communication and it resulted in me doing the project pretty much all by myself.
 
 <table align="center"><tr><td align="center" width="9999">
 <img src="img/3d models/upper_view_with_breadboard.png" align="center" width="200" alt="img/3d models/upper_view_with_breadboard.png">
