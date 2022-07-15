@@ -24,7 +24,6 @@ Deciding what to create for this task I was sure that I wanted something that wa
 [Requirements](./doc/requirements.md)  \
 [Hardware](./doc/hardware.md)  \
 [Setup](./doc/setup.md)  \
-[Timelog](./doc/timelog.md)  \
 [Source](./src)  \
 [Images](./img)  \
 [Pictures of the results](./img/results)  \
