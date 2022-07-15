@@ -5,22 +5,19 @@
 # MQ(ar)TT 
 
 ### a wireless mini car made entirely from 3d printed parts 
-#### school project, 2020
 </td></tr></table>
 
 
 
- <img align="center" width="306" height="192" src="img/results/sideview_finished.png"> <img align="center" width="264" height="192" src="img/results/sidepic_low.jpg"> <img align="right" width="306" height="192" src="img/results/car_overview.jpg"> 
+ <img align="center" width="306" height="192" src="img/results/sideview_finished.png"> <img align="center" width="264" height="192" src="img/results/sidepic_low.jpg">
 
-
-    
     
 ## Abstract
-With the help of 3d modeling, we have created something straight from scratch. Instead of using the base of an RC car with its steering mechanics, driving axle, and mounting our electronics we made something out of nothing and visualized a functional car made entirely from us.
-We wanted to control the car by an application running via bluetooth but we ran into some issues with connectivity so we changed the direction of our connection to MQTT servers instead. During the late stages of the project problems were stacking up but we managed them.
+With the help of 3d modeling, I have created something straight from scratch. Instead of using the base of an RC car with its steering mechanics, driving axle, and mounting our electronics I made something out of nothing and visualized a functional car made entirely from us.
+I wanted to control the car by an application running via bluetooth but I ran into some issues with connectivity so I changed the direction of our connection to MQTT servers instead. During the late stages of the project problems were stacking up but I managed them.
 
 ## Background and Idea
-When we were to decide what to create for this task the both of us were sure that we wanted something that wasn't static. There was many projects that couldn't move and there were no reason for them to move either since they could be a weather station or an alarm system. Both me and Fardin had no previous experience with electronics and thus we thought it would be good to keep it simple and basic. A RC-car sounded like a fun and interesting project idea that fit our reasoning and since I have a 3d printer and experience within Fusion360 the choice was made.
+When I were to decide what to create for this task I was sure that I wanted something that wasn't static. There was many project ideas that couldn't move and there were no reason for them to move either since they could be a weather station or an alarm system. I had no previous experience with electronics and thus I thought it would be good to keep it simple and basic. A RC-car sounded like a fun and interesting project idea that fit my reasoning and since I have a 3d printer and experience with Fusion360 the choice was made.
 
 ## Method
 
@@ -35,14 +32,12 @@ When we were to decide what to create for this task the both of us were sure tha
 
 ## Results
 
-Being our very first project of this kind it was very hard to get a grasp on what to do, what needed to be done and *when* it was to be done. E. Lazy updates here on gitlab created a work environment that compromised effectiveness and quality of our work. 
-Starting the project with the 3d modeling which took about a total of 25-30hours, we said that the entire car was to be made out of us, all mechanical parts were included. Making different steering mechanics, gears, ball and roller bearings and mechanical parts in general in such a small size as of a RC car was a real challenge. 
+Starting the project with the 3d modeling which took about a total of 25-30hours, I set out a goal that the entire car was to be made out of me, all mechanical parts were included. Making different steering mechanics, gears, ball and roller bearings and mechanical parts in general in such a small size as of a RC car was a real challenge.
 
-The initial servo used was way too weak to be able to make the car steer left and right. It was unfortunate that we realized it very late in to the project, when all parts already had been printed. Instead of designing and printing another prototype we used lots of glue to secure crucial parts of the car that were exposed. With a little cage printed for the second servo it found it's place in the center in the front. It worked very well with the steering mechanism. It weighed a lot more than the first servo and demanded higher voltages which added lots of extra weight. If we were to consider small things like that from the beginning the end results could've been better.  <img align="right" width="380" height="380" src="img/3d models/servo_size_difference.png">
+The initial servo used was way too weak to be able to make the car steer left and right. It was unfortunate that I realized it very late in to the project, when all parts already had been printed. Instead of designing and printing another prototype I used lots of glue to secure crucial parts of the car that were exposed. With a little cage printed for the second servo it found it's place in the center in the front. It worked very well with the steering mechanism. It weighed a lot more than the first servo and demanded higher voltages which added lots of extra weight. If I were to consider small things like that from the beginning the end results could've been better.  <img align="right" width="380" height="380" src="img/3d models/servo_size_difference.png">
 
-The flaws that caused the most trouble were design related. The first prototype of the driving axle hade many issues. We didn't get an accelerometer in time so we couldn't regulate the speed without directly modifying the voltages on the battery. All it took was a little gap between the gears for them to completely seperate and spin like two beyblades. By printing some small adjustments with somewhat bigger gears we could use these with the old prints and make the driving axle steady with the gears aligned. 
-We knew that traction would be an issue but it was not a priority since many solutions were available and we eventually went with the rubber bands.    
-
+The flaws that caused the most trouble were design related. The first prototype of the driving axle hade many issues. I didn't get an accelerometer in time so I couldn't regulate the speed without directly modifying the voltages on the battery. All it took was a little gap between the gears for them to completely seperate and spin like two beyblades. By printing some small adjustments with somewhat bigger gears I could use these with the old prints and make the driving axle steady with the gears aligned.
+I knew that traction would be an issue but it was not a priority because many solutions were available and I eventually went with the rubber bands.
 
 
 

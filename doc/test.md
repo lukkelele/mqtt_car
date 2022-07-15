@@ -20,19 +20,4 @@ Try out all the components one by one before making bigger circuits. I did the t
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 OBS! The servo is not glued directly on the base. It's sitting firmly in a 3d printed box which in turn is glued. Take care of your electrical devices!
