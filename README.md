@@ -2,9 +2,10 @@
 <table align="center"><tr><td align="center" width="9999">
 <img src="img/3d models/upper_view_with_breadboard.png" align="center" width="200" alt="img/3d models/upper_view_with_breadboard.png">
 
-# MQ(ar)TT 
+# MQ(ar)TT
 
 ### a wireless mini car made entirely from 3d printed parts 
+#### january 2021
 </td></tr></table>
 
 
