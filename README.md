@@ -5,7 +5,7 @@
 # MQ(ar)TT
 
 ### a wireless mini car made entirely from 3d printed parts 
-#### january 2021
+#### created in january 2021
 </td></tr></table>
 
 
