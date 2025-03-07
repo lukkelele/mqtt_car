@@ -4,8 +4,8 @@
 
 # MQ(ar)TT
 
-### a wireless mini car made entirely from 3d printed parts 
-#### created in january 2021
+### Wireless RC car made entirely from 3D printed parts 
+#### Created in january 2021 for a school project
 </td></tr></table>
 
 
@@ -14,7 +14,7 @@
 
     
 ## Abstract
-With the help of 3d modeling, I have created something straight from scratch. Instead of using the base of an RC car with its steering mechanics, driving axle, and mounting our electronics I made something out of nothing and visualized a functional car made entirely from us.
+With the help of 3D modeling, I have created something straight from scratch. Instead of using the base of an RC car with its steering mechanics, driving axle and mounting our electronics I made something out of nothing.
 I wanted to control the car by an application running via bluetooth but I ran into some issues with connectivity so I changed the direction of our connection to MQTT servers instead. During the late stages of the project problems were stacking up but I managed them.
 
 ## Background and Idea
